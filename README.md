@@ -1,3 +1,6 @@
+# Description
+This project uses public api and integrates it with angular data binding schemes
+
 # WeatherApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
